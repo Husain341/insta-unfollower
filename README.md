@@ -1,6 +1,8 @@
 Insta Unfollower
 ===================
 
+[![Run on Repl.it](https://repl.it/badge/github/tuxity/insta-unfollower)](https://repl.it/github/tuxity/insta-unfollower)
+
 [![](https://images.microbadger.com/badges/version/tuxity/insta-unfollower.svg)](https://hub.docker.com/r/tuxity/insta-unfollower/)
 ![](https://images.microbadger.com/badges/image/tuxity/insta-unfollower.svg)
 
